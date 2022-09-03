@@ -1,2 +1,2 @@
 # ElderWoman-HealthyLife
-A prototype for helping an elder woman to live healthy life.
+A prototype for helping an elder woman to live healthy life.In this prototype user will select a problem(desease) from a list of problems. Here list is very small but we can add more problems.If user don't have any problem then program will tell the user to keep it up and exercise regularly.If user has any problem then medicines with time slots, healthy food as well as respective exercise will be suggested to user. 
